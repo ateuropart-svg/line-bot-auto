@@ -1,9 +1,6 @@
 Flask==2.3.2
-line-bot-sdk==3.5.0
-urllib3==1.26.18
-certifi==2024.12.14
-google-auth==2.22.0
-gspread==5.10.0
+line-bot-sdk==3.4.0
+google-auth==2.25.2
+gspread==5.9.0
 google-api-python-client==2.95.0
-Pillow==11.0.0
 gunicorn==21.2.0
