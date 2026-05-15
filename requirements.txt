@@ -2,5 +2,6 @@ Flask==2.3.2
 line-bot-sdk==3.4.0
 google-auth==2.25.2
 gspread==5.9.0
-google-api-python-client==2.95.0
+google-api-python-client==2.90.0
 gunicorn==21.2.0
+requests==2.31.0
